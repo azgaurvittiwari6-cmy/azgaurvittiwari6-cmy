@@ -4,15 +4,13 @@
 
 <div align="center">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Coding+Prodigy+at+10+Years+Old;Full+Stack+Developer+in+Training;MERN+Stack+Enthusiast;Python+Native;Building+the+Future" alt="Typing SVG" />
-  </a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Coding+Prodigy+at+10+Years+Old;Full+Stack+Developer+in+Training;MERN+Stack+Enthusiast;Python+Native;Building+the+Future)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
   <h3>👀 Profile Views</h3>
-  <img src="https://komarev.com/ghpvc/?username=azgaurvittiwari6-cmy&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  ![Profile Views](https://komarev.com/ghpvc/?username=azgaurvittiwari6-cmy&label=Profile%20Views&color=blueviolet&style=flat-square)
 </div>
 
 ---
@@ -51,15 +49,13 @@ console.log("Welcome to my profile!");
 <div align="center">
   <h2>🔥 GitHub Stats & Streaks</h2>
   
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=azgaurvittiwari6-cmy&show_icons=true&theme=radical&include_all_commits=true" alt="Anuj's GitHub Stats" />
-    <img src="https://streak-stats.demolab.com?user=azgaurvittiwari6-cmy&theme=radical" alt="Anuj's Streak" />
-  </p>
+  ![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azgaurvittiwari6-cmy&show_icons=true&theme=radical)
+  ![Anuj's Streak](https://streak-stats.demolab.com?user=azgaurvittiwari6-cmy&theme=radical)
 
   <br/>
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azgaurvittiwari6-cmy&layout=compact&theme=radical" alt="Top Languages" />
+    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azgaurvittiwari6-cmy&layout=compact&theme=radical)
   </p>
 </div>
 
