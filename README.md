@@ -46,19 +46,6 @@ console.log("Welcome to my profile!");
 
 ---
 
-<div align="center">
-  <h2>🔥 GitHub Stats & Streaks</h2>
-  
-  ![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azgaurvittiwari6-cmy&show_icons=true&theme=radical)
-  ![Anuj's Streak](https://streak-stats.demolab.com?user=azgaurvittiwari6-cmy&theme=radical)
-
-  <br/>
-
-  <p>
-    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azgaurvittiwari6-cmy&layout=compact&theme=radical)
-  </p>
-</div>
-
 ---
 
 <div align="center">
