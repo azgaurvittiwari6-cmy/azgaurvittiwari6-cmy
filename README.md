@@ -52,14 +52,14 @@ console.log("Welcome to my profile!");
   <h2>🔥 GitHub Stats & Streaks</h2>
   
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=azgaurvittiwari6-cmy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Anuj's GitHub Stats" />
-    <img src="https://streak-stats.demolab.com?user=azgaurvittiwari6-cmy&theme=radical&hide_border=true&background=0D1117" alt="Anuj's Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=azgaurvittiwari6-cmy&show_icons=true&theme=radical&include_all_commits=true" alt="Anuj's GitHub Stats" />
+    <img src="https://streak-stats.demolab.com?user=azgaurvittiwari6-cmy&theme=radical" alt="Anuj's Streak" />
   </p>
 
   <br/>
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azgaurvittiwari6-cmy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azgaurvittiwari6-cmy&layout=compact&theme=radical" alt="Top Languages" />
   </p>
 </div>
 
