@@ -46,7 +46,11 @@ console.log("Welcome to my profile!");
 
 ---
 
----
+<div align="center">
+  <h2>🔥 Contribution Streak</h2>
+  
+  <img src="https://streak-stats.demolab.com?user=azgaurvittiwari6-cmy&theme=radical&hide_border=true&background=0D1117" alt="Anuj's Streak" />
+</div>
 
 <div align="center">
   <h2>🐍 Contribution Snake</h2>
