@@ -5,7 +5,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Coding+Prodigy+at+10+Years+Old+👶;Full+Stack+Developer+in+Training+💻;MERN+Stack+Enthusiast+⚛️;Python+Native+🐍;Building+the+Future+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Coding+Prodigy+at+10+Years+Old;Full+Stack+Developer+in+Training;MERN+Stack+Enthusiast;Python+Native;Building+the+Future" alt="Typing SVG" />
   </a>
 
 </div>
@@ -52,8 +52,8 @@ console.log("Welcome to my profile!");
   <h2>🔥 GitHub Stats & Streaks</h2>
   
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=azgaurvittiwari6-cmy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="Anuj's GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=azgaurvittiwari6-cmy&theme=radical&hide_border=true&background=0D1117" alt="Anuj's Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=azgaurvittiwari6-cmy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Anuj's GitHub Stats" />
+    <img src="https://streak-stats.demolab.com?user=azgaurvittiwari6-cmy&theme=radical&hide_border=true&background=0D1117" alt="Anuj's Streak" />
   </p>
 
   <br/>
