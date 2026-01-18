@@ -12,7 +12,7 @@
 
 <div align="center">
   <h3>👀 Profile Views</h3>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=azgaurvittiwari6-cmy&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </div>
 
 ---
@@ -52,14 +52,14 @@ console.log("Welcome to my profile!");
   <h2>🔥 GitHub Stats & Streaks</h2>
   
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="Anuj's GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117" alt="Anuj's Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=azgaurvittiwari6-cmy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="Anuj's GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=azgaurvittiwari6-cmy&theme=radical&hide_border=true&background=0D1117" alt="Anuj's Streak" />
   </p>
 
   <br/>
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azgaurvittiwari6-cmy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
   </p>
 </div>
 
@@ -68,7 +68,7 @@ console.log("Welcome to my profile!");
 <div align="center">
   <h2>🐍 Contribution Snake</h2>
   <!-- REQUEST: To get this working, you need to set up the GitHub Action! -->
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github.com/azgaurvittiwari6-cmy/azgaurvittiwari6-cmy/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 ---
