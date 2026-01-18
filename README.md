@@ -68,7 +68,9 @@ console.log("Welcome to my profile!");
 <div align="center">
   <h2>🐍 Contribution Snake</h2>
   <!-- REQUEST: To get this working, you need to set up the GitHub Action! -->
-  <img src="https://github.com/azgaurvittiwari6-cmy/azgaurvittiwari6-cmy/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/azgaurvittiwari6-cmy/azgaurvittiwari6-cmy/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <br/>
+  <!-- Note: This animation only works AFTER the GitHub Action runs successfully once! -->
 </div>
 
 ---
